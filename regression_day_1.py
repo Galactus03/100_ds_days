@@ -1,5 +1,7 @@
 """ Univariate  and multivariate regression
-Day 1 of ds challange """
+Day 1 of ds challange
+Tnis is my line by lime implementation of https://www.kaggle.com/shoroouqalshal/house-prices-for-beginners
+this idea is to code this notebook out and get a deeper sense of what this guy is working on and then try to recreate that on my own later"""
 
 # Dataset used  https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
